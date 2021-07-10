@@ -1,3 +1,3 @@
-# Sicillian
+# Sicilian
 
 A description of this package.
