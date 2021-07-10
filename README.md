@@ -1,3 +1,4 @@
-# Sicilian
+# sicilain
 
-A description of this package.
+This project is currently under development. 
+
